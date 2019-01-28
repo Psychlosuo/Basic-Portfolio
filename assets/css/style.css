@@ -1,0 +1,36 @@
+h1 {text-align:left;
+    color:#4aaaa5; 
+    font-size:15px;
+}
+
+h2 {width:225px;
+    background-color:#4aaaa5;
+    color: white
+}
+
+#face  {float: left;
+        margin-right:20px;
+        height: 200px;
+        width:200px;
+        Margin:0,0,0, 15px;
+}
+
+p1 {text-align:center;
+    margin-left:25px;
+    font-family: "arial"
+}
+
+body, html {
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom: 100px;
+    margin-top:25px;
+}
+
+
+        }
+
+
+
+
+
